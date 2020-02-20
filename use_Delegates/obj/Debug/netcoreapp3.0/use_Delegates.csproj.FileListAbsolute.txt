@@ -1,0 +1,11 @@
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\obj\Debug\netcoreapp3.0\use_Delegates.csprojAssemblyReference.cache
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\obj\Debug\netcoreapp3.0\use_Delegates.AssemblyInfoInputs.cache
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\obj\Debug\netcoreapp3.0\use_Delegates.AssemblyInfo.cs
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.exe
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.deps.json
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.runtimeconfig.json
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.runtimeconfig.dev.json
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.dll
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\bin\Debug\netcoreapp3.0\use_Delegates.pdb
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\obj\Debug\netcoreapp3.0\use_Delegates.dll
+C:\Users\THE-F\source\repos\use_Delegates\use_Delegates\obj\Debug\netcoreapp3.0\use_Delegates.pdb
